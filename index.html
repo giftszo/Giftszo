@@ -1,0 +1,1222 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="GIFTSZO — The Art of Gifting. Premium gifts, personalized experiences and elegant corporate gifting."
+    >
+
+    <title>GIFTSZO | The Art of Gifting</title>
+	<link rel="icon" type="image/png" href="logo.png">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=DM+Sans:wght@400;500;600&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
+<body>
+
+
+<!-- =========================================================
+     1. HEADER
+     ========================================================= -->
+
+<header class="header">
+
+    <div class="nav container">
+
+        <a class="brand" href="#home">
+
+            <div class="brand-mark">
+                <img
+                    src="logo.webp"
+                    alt="GIFTSZO Logo"
+                    width="100%"
+                    height="100%"
+                    decoding="async"
+                >
+            </div>
+
+            <span class="brand-text">
+                <strong>GIFTSZO</strong>
+                <small>THE ART OF GIFTING</small>
+            </span>
+
+        </a>
+
+
+        <button
+            class="menu"
+            id="menu"
+            aria-label="Open navigation"
+        >
+            ☰
+        </button>
+
+
+        <nav id="nav">
+
+            <a class="active" href="#home">HOME</a>
+            <a href="#shop">SHOP</a>
+            <a href="#collections">COLLECTIONS</a>
+            <a href="#about">ABOUT</a>
+            <a href="#corporate">CORPORATE</a>
+            <a href="#contact">CONTACT</a>
+
+        </nav>
+
+
+        <div class="nav-actions">
+
+            <button
+                class="nav-action-btn"
+                id="searchBtn"
+                aria-label="Search"
+            >
+                ⌕
+            </button>
+
+
+            <button
+                class="signup-nav-btn"
+                id="adminLoginBtn" style="display:none !important"
+            >
+                ADMIN LOGIN
+            </button>
+
+        </div>
+
+    </div>
+
+</header>
+
+
+
+<!-- =========================================================
+     2. MAIN
+     ========================================================= -->
+
+<main>
+
+
+<!-- =========================================================
+     3. HERO
+     ========================================================= -->
+
+<section class="hero" id="home">
+
+    <div class="curtain left"></div>
+    <div class="curtain right"></div>
+
+
+    <div class="hero-arch">
+
+        <div class="arch-content reveal">
+
+            <div class="hero-logo-container">
+
+                <img
+                    src="logo.webp"
+                    alt="GIFTSZO Logo"
+                    class="hero-logo"
+                    fetchpriority="high"
+                    decoding="async"
+                >
+
+            </div>
+
+
+            <div class="ornament">
+                ❧
+            </div>
+
+
+            <p class="welcome">
+                WELCOME TO
+            </p>
+
+
+            <h1>
+                GIFTSZO
+            </h1>
+
+
+            <div class="gold-rule">
+                <span>◆</span>
+            </div>
+
+
+            <p class="tagline">
+                THE ART OF GIFTING
+            </p>
+
+
+            <p class="hero-copy">
+                Thoughtful gifts for every moment.<br>
+                Premium quality. Beautifully presented.<br>
+                Delivered with love.
+            </p>
+
+
+            <a
+                class="royal-btn"
+                href="#shop"
+            >
+                SHOP NOW
+            </a>
+
+        </div>
+
+    </div>
+
+
+    <div class="palace-floor"></div>
+
+</section>
+
+
+
+<!-- =========================================================
+     4. FEATURES
+     ========================================================= -->
+
+<section class="royal-features">
+
+    <div class="feature reveal">
+
+        <div class="round-icon">
+            ♔
+        </div>
+
+        <h3>
+            PREMIUM GIFTS
+        </h3>
+
+        <p>
+            Handpicked premium gifts for every occasion.
+        </p>
+
+    </div>
+
+
+    <div class="feature reveal">
+
+        <div class="round-icon">
+            ♙
+        </div>
+
+        <h3>
+            PERSONALIZED
+        </h3>
+
+        <p>
+            Customization options for memorable gifts.
+        </p>
+
+    </div>
+
+
+    <div class="feature reveal">
+
+        <div class="round-icon">
+            ♢
+        </div>
+
+        <h3>
+            QUALITY ASSURED
+        </h3>
+
+        <p>
+            Fine materials and careful finishing.
+        </p>
+
+    </div>
+
+
+    <div class="feature reveal">
+
+        <div class="round-icon">
+            ♜
+        </div>
+
+        <h3>
+            SAFE DELIVERY
+        </h3>
+
+        <p>
+            Secure packaging and dependable dispatch.
+        </p>
+
+    </div>
+
+
+    <div class="feature reveal">
+
+        <div class="round-icon">
+            ♧
+        </div>
+
+        <h3>
+            SUPPORT
+        </h3>
+
+        <p>
+            Helpful assistance throughout your order.
+        </p>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     5. SHOP
+     ========================================================= -->
+
+<section
+    class="section shop-section"
+    id="shop"
+>
+
+    <div class="section-title reveal">
+
+        <span>✦</span>
+
+        <p>
+            FEATURED PRODUCTS
+        </p>
+
+        <h2>
+            Shop the Giftszo collection
+        </h2>
+
+    </div>
+
+
+    <div class="shop-toolbar reveal">
+
+        <div
+            class="category-chips"
+            id="categoryChips"
+        ></div>
+
+
+        <select
+            id="sortProducts"
+            aria-label="Sort products"
+        >
+
+            <option value="featured">
+                Featured
+            </option>
+
+            <option value="price-low">
+                Price: Low to High
+            </option>
+
+            <option value="price-high">
+                Price: High to Low
+            </option>
+
+            <option value="name">
+                Name
+            </option>
+
+        </select>
+
+    </div>
+
+
+    <div
+        class="product-grid"
+        id="productGrid"
+    ></div>
+
+</section>
+
+
+
+<!-- =========================================================
+     6. COLLECTIONS
+     ========================================================= -->
+
+<section
+    class="section dark-section"
+    id="collections"
+>
+
+    <div class="section-title reveal">
+
+        <span>✦</span>
+
+        <p>
+            OUR COLLECTIONS
+        </p>
+
+        <h2>
+            Curated for every occasion
+        </h2>
+
+    </div>
+
+
+    <div class="collection-grid">
+
+       <article class="collection reveal">
+
+    <div class="collection-art birthday">
+        <img src="assets/main_page/combo-main.webp" height= "300px" width= "355px" style="align-items: center;" alt="Birthday and Celebration Gifts" loading="lazy" decoding="async">
+    </div>
+			<pre>
+			
+			</pre>
+    <div>
+        
+
+        <h3>CELEBRATION</h3>
+
+        <p>Birthday & anniversary gifts</p>
+
+        <a href="#shop" data-category-link="Celebration">
+            EXPLORE →
+        </a>
+    </div>
+
+</article>
+
+
+        <article class="collection reveal">
+
+            <div class="collection-art wedding">
+                 <img src="assets/main_page/har-main.webp" height= "300px" width= "355px" style="align-items: center;" alt="Birthday and Celebration Gifts" loading="lazy" decoding="async">
+            </div>
+					<pre>
+					
+					</pre>
+            <div>
+
+               
+
+                <h3>
+                    ROYAL COLLECTION
+                </h3>
+
+                <p>
+                    Wedding & festive gifting
+                </p>
+
+                <a
+                    href="#shop"
+                    data-category-link="Wedding"
+                >
+                    EXPLORE →
+                </a>
+
+            </div>
+
+        </article>
+
+
+        <article class="collection reveal">
+            <div class="collection-art wedding">
+                 <img src="assets/main_page/purse-main.webp" height= "300px" width= "355px" style="align-items: center;" alt="Birthday and Celebration Gifts" loading="lazy" decoding="async">
+            </div>
+					<pre>
+					
+					</pre>
+            <div>
+
+                <h3>
+                    EXECUTIVE
+                </h3>
+
+                <p>
+                    Premium corporate gifting
+                </p>
+
+                <a
+                    href="#shop"
+                    data-category-link="Corporate"
+                >
+                    EXPLORE →
+                </a>
+
+            </div>
+
+        </article>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     7. ABOUT
+     ========================================================= -->
+
+<section
+    class="section"
+    id="about"
+>
+
+    <div class="section-title reveal">
+
+        <span>✦</span>
+
+        <p>
+            THE GIFTSZO STORY
+        </p>
+
+        <h2>
+            Where every gift becomes a memory
+        </h2>
+
+    </div>
+
+
+    <div class="about-grid">
+
+        <div class="about-card reveal">
+
+ <img src="assets/main_page/cup-main.webp" height= "360px" width= "420px" style="border: 10px solid gold;" alt="Birthday and Celebration Gifts" loading="lazy" decoding="async">
+
+        </div>
+
+
+        <div class="about-copy reveal">
+
+            <p class="eyebrow">
+                OUR PHILOSOPHY
+            </p>
+
+            <h2>
+                Elegance in every gesture.
+            </h2>
+
+            <p>
+                At Giftszo, we believe a gift is more than an object.
+                It is an emotion, a celebration and a memory waiting
+                to be created. Our collections bring together refined
+                presentation, thoughtful details and premium gifting
+                experiences.
+            </p>
+
+
+            <div class="checks">
+
+                <span>
+                    ✦ Curated collections
+                </span>
+
+                <span>
+                    ✦ Elegant presentation
+                </span>
+
+                <span>
+                    ✦ Personalization
+                </span>
+
+                <span>
+                    ✦ Corporate solutions
+                </span>
+
+            </div>
+
+
+            <a
+                class="text-btn"
+                href="#contact"
+            >
+                LEARN MORE <b>→</b>
+            </a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     8. CORPORATE
+     ========================================================= -->
+
+<section
+    class="section corporate"
+    id="corporate"
+>
+
+    <div class="corporate-box reveal">
+
+        <div>
+
+            <p class="eyebrow">
+                GIFTSZO FOR BUSINESS
+            </p>
+
+            <h2>
+                Make your relationships memorable.
+            </h2>
+
+            <p>
+                Elegant corporate gifting for clients,
+                employees, events, festivals and milestones.
+                Create a gift experience that represents
+                your brand.
+            </p>
+
+            <a
+                class="royal-btn"
+                href="#contact"
+            >
+                ENQUIRE NOW
+            </a>
+
+        </div>
+
+
+        <div class="corporate-seal">
+
+ <img src="assets/main_page/photo_frame-main.webp" height= "250px" width= "260px" style="border: 10px solid gold;" alt="Birthday and Celebration Gifts" loading="lazy" decoding="async">
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================================================
+     9. ADMIN / SELLER PANEL
+     ========================================================= -->
+
+<section
+    class="section seller-section"
+    id="seller-upload" style="display:none !important"
+>
+
+    <div
+        class="seller-panel reveal"
+        id="adminPanel"
+        hidden
+    >
+
+        <!-- PRODUCT FORM -->
+
+        <form
+            id="productUploadForm"
+            class="seller-form"
+        >
+
+            <div class="seller-grid">
+
+                <label>
+
+                    Product name
+
+                    <input
+                        id="productName"
+                        type="text"
+                        required
+                        placeholder="Example: Royal Gift Hamper"
+                    >
+
+                </label>
+
+
+                <label>
+
+                    Price (₹)
+
+                    <input
+                        id="productPrice"
+                        type="number"
+                        min="0"
+                        step="1"
+                        required
+                        placeholder="1499"
+                    >
+
+                </label>
+
+
+                <label>
+
+                    Category
+
+                    <select
+                        id="productCategory"
+                        required
+                    ></select>
+
+                </label>
+
+
+                <label>
+
+                    Initial stock
+
+                    <input
+                        id="productStock"
+                        type="number"
+                        min="0"
+                        step="1"
+                        value="10"
+                        required
+                    >
+
+                </label>
+
+            </div>
+
+
+            <label>
+
+                Description
+
+                <textarea
+                    id="productDescription"
+                    rows="4"
+                    placeholder="Short product description"
+                ></textarea>
+
+            </label>
+
+
+            <!-- MULTIPLE IMAGE UPLOAD -->
+
+            <label class="upload-drop">
+  Product photos
+  <input
+    id="productImage"
+    type="file"
+    accept="image/*"
+    multiple
+    required
+  >
+  <span>Choose up to 5 JPG / PNG / WEBP images · max 5 MB each</span>
+</label>
+
+
+            <button
+                type="submit"
+                class="royal-btn"
+            >
+                ADD PRODUCT
+            </button>
+
+
+            <button
+                type="button"
+                class="text-btn reset-products-btn"
+                id="resetProducts"
+            >
+                RESET DEMO PRODUCTS
+            </button>
+
+
+            <p class="seller-note">
+                This local version stores products and stock
+                in your browser using localStorage.
+                It is intended for local demonstration and testing.
+            </p>
+
+        </form>
+
+
+
+        <!-- CATEGORY MANAGER -->
+
+        <div class="category-manager">
+
+            <div class="category-manager-head">
+
+                <div>
+
+                    <p class="eyebrow">
+                        CATEGORY MANAGER
+                    </p>
+
+                    <h3>
+                        Add or remove categories
+                    </h3>
+
+                </div>
+
+            </div>
+
+
+            <div class="category-manager-form">
+
+                <input
+                    id="newCategoryName"
+                    type="text"
+                    placeholder="Example: Birthday Gifts"
+                    maxlength="40"
+                >
+
+
+                <button
+                    type="button"
+                    class="royal-btn"
+                    id="addCategoryBtn"
+                >
+                    ADD CATEGORY
+                </button>
+
+            </div>
+
+
+            <div
+                id="adminCategoryList"
+                class="admin-category-list"
+            ></div>
+
+
+            <p class="seller-note">
+                Categories are saved in this browser.
+                A category cannot be deleted while products
+                are assigned to it.
+            </p>
+
+        </div>
+
+
+
+        <!-- IMAGE PREVIEW -->
+
+        <div class="seller-preview">
+
+            <h3>
+                Live preview
+            </h3>
+
+
+            <div
+                id="uploadPreview"
+                class="upload-preview-placeholder"
+            >
+                Your uploaded product previews
+                will appear here.
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <!-- ADMIN PRODUCT INVENTORY -->
+
+    <div id="adminProductList"></div>
+
+</section>
+
+
+
+<!-- =========================================================
+     10. CONTACT
+     ========================================================= -->
+
+<section
+    class="section contact"
+    id="contact"
+>
+
+    <div class="section-title reveal">
+
+        <span>✦</span>
+
+        <p style="font-size:25px">
+            GET IN TOUCH
+        </p>
+
+        <h2 style="color:white">
+            Let's create something special
+        </h2>
+
+    </div>
+
+
+    <div class="contact-grid">
+
+        <div class="contact-info reveal">
+
+            <h3>
+                GIFTSZO
+            </h3>
+
+            <p>
+                The Art of Gifting
+            </p>
+
+            <a href="mailto:giftszo.gifts000@gmail.com">
+               <b style="font-size:20px"> giftszo.gifts000@gmail.com </b>
+            </a>
+			
+            <a href="tel:+919239189148">
+                <b style="font-size:20px"> +91 9239189148 </b>
+            </a>
+
+            <span>
+                <b style="font-size:20px"> India </b>
+            </span>
+
+        </div>
+
+
+        <form
+            class="contact-form reveal"
+            id="form"
+        >
+
+            <input
+                name="name"
+                placeholder="YOUR NAME"
+                required
+            >
+
+            <input
+                name="email"
+                type="email"
+                placeholder="EMAIL ADDRESS"
+                required
+            >
+
+            <textarea
+                name="message"
+                rows="5"
+                placeholder="TELL US ABOUT YOUR GIFTING REQUIREMENTS"
+                required
+            ></textarea>
+
+
+            <button class="royal-btn">
+                SEND ENQUIRY
+            </button>
+
+
+            <p id="note"></p>
+
+        </form>
+
+    </div>
+
+</section>
+
+</main>
+
+
+
+<!-- =========================================================
+     11. FOOTER
+     ========================================================= -->
+
+<footer>
+
+    <div class="footer-crest">
+
+        <img
+            src="logo.webp"
+            alt="GIFTSZO Logo"
+            loading="lazy"
+            decoding="async"
+        >
+
+    </div>
+
+
+    <h3>
+        GIFTSZO
+    </h3>
+
+
+    <p>
+        THE ART OF GIFTING
+    </p>
+
+
+    <div class="footer-line"></div>
+
+
+    <small>
+        © <span id="year"></span>
+        GIFTSZO. All rights reserved.
+    </small>
+
+</footer>
+
+
+
+<!-- =========================================================
+     12. SEARCH POPUP
+     ========================================================= -->
+
+<div
+    class="popup-overlay"
+    id="searchPopup"
+>
+
+    <div class="popup-box search-popup-box">
+
+        <button
+            class="popup-close"
+            data-close="searchPopup"
+        >
+            ×
+        </button>
+
+
+        <p class="popup-eyebrow">
+            GIFTSZO
+        </p>
+
+
+        <h2>
+            Search Products
+        </h2>
+
+
+        <div class="search-box">
+
+            <input
+                type="text"
+                id="websiteSearch"
+                placeholder="Search gifts, hampers, wedding, corporate..."
+                autocomplete="off"
+            >
+
+
+            <button id="websiteSearchBtn">
+                SEARCH
+            </button>
+
+        </div>
+
+
+        <div id="searchResults"></div>
+
+    </div>
+
+</div>
+
+
+
+<!-- =========================================================
+     13. ADMIN LOGIN POPUP
+     ========================================================= -->
+
+<div
+    class="popup-overlay"
+    id="loginPopup" style="display:none !important"
+>
+
+    <div class="popup-box">
+
+        <button
+            class="popup-close"
+            data-close="loginPopup"
+        >
+            ×
+        </button>
+
+
+        <p class="popup-eyebrow">
+            GIFTSZO ADMIN
+        </p>
+
+
+        <h2>
+            Admin Login
+        </h2>
+
+
+        <p class="popup-description">
+            Only the authorized administrator can access
+            product and inventory management.
+        </p>
+
+
+        <form
+            class="account-form"
+            id="loginForm"
+        >
+
+            <div class="form-group">
+
+                <label>
+                    ADMIN EMAIL
+                </label>
+
+                <input
+                    id="loginEmail"
+                    type="email"
+                    placeholder="Enter admin email"
+                    required
+                >
+
+            </div>
+
+
+            <div class="form-group">
+
+                <label>
+                    ADMIN PASSWORD
+                </label>
+
+                <div class="password-box">
+
+                    <input
+                        type="password"
+                        id="loginPassword"
+                        placeholder="Enter admin password"
+                        required
+                    >
+
+                    <button
+                        type="button"
+                        class="show-password"
+                        data-password="loginPassword"
+                    >
+                        SHOW
+                    </button>
+
+                </div>
+
+            </div>
+
+
+            <button
+                type="submit"
+                class="account-submit"
+            >
+                ADMIN LOGIN
+            </button>
+
+        </form>
+
+
+        <p
+            class="switch-account"
+            style="text-align:center;opacity:.7;margin-top:16px;"
+        >
+            Customer login and account creation is not available.
+        </p>
+
+    </div>
+
+</div>
+
+
+
+<!-- =========================================================
+     14. CART
+     ========================================================= -->
+
+<aside
+    class="cart-drawer"
+    id="cartDrawer"
+    aria-hidden="true"
+>
+
+    <div class="cart-header">
+
+        <div>
+
+            <p class="eyebrow">
+                YOUR BAG
+            </p>
+
+            <h2>
+                Shopping Cart
+            </h2>
+
+        </div>
+
+
+        <button
+            id="closeCart"
+            aria-label="Close cart"
+        >
+            ×
+        </button>
+
+    </div>
+
+
+    <div
+        id="cartItems"
+        class="cart-items"
+    ></div>
+
+
+    <div class="cart-footer">
+
+        <div class="cart-total">
+
+            <span>
+                Total
+            </span>
+
+            <strong id="cartTotal">
+                ₹0
+            </strong>
+
+        </div>
+
+
+        <button
+            class="royal-btn checkout-btn"
+            id="checkoutBtn"
+        >
+            CHECKOUT
+        </button>
+
+    </div>
+
+</aside>
+
+
+<div
+    class="cart-backdrop"
+    id="cartBackdrop"
+></div>
+
+
+
+<!-- =========================================================
+     15. TOAST
+     ========================================================= -->
+
+<div
+    class="toast"
+    id="toast"
+></div>
+
+
+
+<!-- =========================================================
+     16. JAVASCRIPT
+     ========================================================= -->
+
+<script src="script.js"></script>
+
+</body>
+</html>

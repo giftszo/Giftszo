@@ -1,0 +1,1022 @@
+[
+  {
+    "id": "prod-001",
+    "name": "Birthday Gifts Combo",
+    "price": 499,
+    "category": "Combo",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/combo/combo_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-002",
+    "name": "Wedding Gifts Combo",
+    "price": 999,
+    "category": "Combo",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/combo/combo_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-003",
+    "name": "Wedding Gifts Combo",
+    "price": 799,
+    "category": "Combo",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/combo/combo_c1.webp"
+    ]
+  },
+  {
+    "id": "prod-004",
+    "name": "Customized Punjabi",
+    "price": 599,
+    "category": "Punjabi",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/costomize_punjabi/punjabi_a1.webp",
+      "assets/products/costomize_punjabi/punjabi_a2.webp",
+      "assets/products/costomize_punjabi/punjabi_a3.webp",
+      "assets/products/costomize_punjabi/punjabi_a4.webp",
+      "assets/products/costomize_punjabi/punjabi_a5.webp"
+    ]
+  },
+  {
+    "id": "prod-005",
+    "name": "Printed T-Shirt",
+    "price": 449,
+    "category": "T-Shirt",
+    "inStock": true,
+    "stock": 50,
+    "images": [
+      "assets/products/customize_T-shirt/tshirt_a1.webp",
+      "assets/products/customize_T-shirt/tshirt_a2.webp",
+      "assets/products/customize_T-shirt/tshirt_a3.webp",
+      "assets/products/customize_T-shirt/tshirt_a4.webp",
+      "assets/products/customize_T-shirt/tshirt_a5.webp"
+    ]
+  },
+  {
+    "id": "prod-006",
+    "name": "Printed Coffee Mug",
+    "price": 249,
+    "category": "Mug",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/printed_coffee-mug/mug_a2.webp",
+      "assets/products/printed_coffee-mug/mug_a1.webp",
+      "assets/products/printed_coffee-mug/mug_a3.webp",
+      "assets/products/printed_coffee-mug/mug_a4.webp"
+    ]
+  },
+  {
+    "id": "prod-007",
+    "name": "Magic Coffee Mug",
+    "price": 399,
+    "category": "Mug",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/printed_coffee-mug/mug_b1.webp",
+      "assets/products/printed_coffee-mug/mug_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-008",
+    "name": "Royal Bouquet",
+    "price": 249,
+    "category": "Flower Bouquet",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/flower_bouque/bouque_a1.webp",
+      "assets/products/flower_bouque/bouque_a2.webp",
+      "assets/products/flower_bouque/bouque_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-009",
+    "name": "Toy Keychain",
+    "price": 99,
+    "category": "keychain",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/keychain/keychain_a1.webp",
+      "assets/products/keychain/keychain_a2.webp",
+      "assets/products/keychain/keychain_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-010",
+    "name": "Keychain",
+    "price": 109,
+    "category": "keychain",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/keychain/keychain_b1.webp",
+      "assets/products/keychain/keychain_b2.webp",
+      "assets/products/keychain/keychain_b3.webp",
+      "assets/products/keychain/keychain_b4.webp"
+    ]
+  },
+  {
+    "id": "prod-011",
+    "name": "Calculator Keychain",
+    "price": 119,
+    "category": "keychain",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/keychain/keychain_c1.webp",
+      "assets/products/keychain/keychain_c2.webp"
+    ]
+  },
+  {
+    "id": "prod-012",
+    "name": "Anime Keychain",
+    "price": 99,
+    "category": "keychain",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/keychain/keychain_d1.webp",
+      "assets/products/keychain/keychain_d2.webp",
+      "assets/products/keychain/keychain_d3.webp",
+      "assets/products/keychain/keychain_d4.webp"
+    ]
+  },
+  {
+    "id": "prod-013",
+    "name": "Anime Keychain",
+    "price": 99,
+    "category": "keychain",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/keychain/keychain_e1.webp",
+      "assets/products/keychain/keychain_e2.webp",
+      "assets/products/keychain/keychain_e3.webp"
+    ]
+  },
+  {
+    "id": "prod-014",
+    "name": "Lighiting Keychain",
+    "price": 119,
+    "category": "keychain",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/keychain/keychain_f1.webp"
+    ]
+  },
+  {
+    "id": "prod-015",
+    "name": "costomized photo frame",
+    "price": 249,
+    "category": "photo frame",
+    "inStock": true,
+    "stock": 13,
+    "images": [
+      "assets/products/photo_frame/frame_a1.webp",
+      "assets/products/photo_frame/frame_a2.webp",
+      "assets/products/photo_frame/frame_a3.webp",
+      "assets/products/photo_frame/frame_a4.webp",
+      "assets/products/photo_frame/frame_a5.webp"
+    ]
+  },
+  {
+    "id": "prod-016",
+    "name": "costomized photo frame",
+    "price": 299,
+    "category": "photo frame",
+    "inStock": true,
+    "stock": 11,
+    "images": [
+      "assets/products/photo_frame/frame_b1.webp",
+      "assets/products/photo_frame/frame_c1.webp"
+    ]
+  },
+  {
+    "id": "prod-017",
+    "name": "costomized photo frame",
+    "price": 149,
+    "category": "photo frame",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/photo_frame/frame_d1.webp",
+      "assets/products/photo_frame/frame_d2.webp"
+    ]
+  },
+  {
+    "id": "prod-018",
+    "name": "costomized photo frame",
+    "price": 149,
+    "category": "photo frame",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/photo_frame/frame_e1.webp",
+      "assets/products/photo_frame/frame_e2.webp"
+    ]
+  },
+  {
+    "id": "prod-019",
+    "name": "amazing night lamp",
+    "price": 349,
+    "category": "night lamp",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/night_lamp/night_lamp_a1.webp",
+      "assets/products/night_lamp/night_lamp_a2.webp"
+    ]
+  },
+  {
+    "id": "prod-020",
+    "name": "colourful night lamp",
+    "price": 199,
+    "category": "night lamp",
+    "inStock": true,
+    "stock": 17,
+    "images": [
+      "assets/products/night_lamp/night_lamp_b1.webp",
+      "assets/products/night_lamp/night_lamp_b2.webp",
+      "assets/products/night_lamp/night_lamp_b3.webp",
+      "assets/products/night_lamp/night_lamp_b4.webp"
+    ]
+  },
+  {
+    "id": "prod-021",
+    "name": "colourful night lamp",
+    "price": 199,
+    "category": "night lamp",
+    "inStock": true,
+    "stock": 19,
+    "images": [
+      "assets/products/night_lamp/night_lamp_c1.webp",
+      "assets/products/night_lamp/night_lamp_c2.webp",
+      "assets/products/night_lamp/night_lamp_c3.webp",
+      "assets/products/night_lamp/night_lamp_c4.webp"
+    ]
+  },
+  {
+    "id": "prod-022",
+    "name": "premium leather wallet",
+    "price": 149,
+    "category": "wallets",
+    "inStock": true,
+    "stock": 12,
+    "images": [
+      "assets/products/wallets/wallet_a1.webp",
+      "assets/products/wallets/wallet_a2.webp",
+      "assets/products/wallets/wallet_a3.webp",
+      "assets/products/wallets/wallet_a4.webp",
+      "assets/products/wallets/wallet_a5.webp"
+    ]
+  },
+  {
+    "id": "prod-023",
+    "name": "DOUBLE MAGNET leather wallet",
+    "price": 139,
+    "category": "wallets",
+    "inStock": true,
+    "stock": 11,
+    "images": [
+      "assets/products/wallets/wallet_b1.webp",
+      "assets/products/wallets/wallet_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-024",
+    "name": "puma stylish wallet",
+    "price": 149,
+    "category": "wallets",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/wallets/wallet_c1.webp",
+      "assets/products/wallets/wallet_c2.webp",
+      "assets/products/wallets/wallet_c3.webp"
+    ]
+  },
+  {
+    "id": "prod-025",
+    "name": "cute purse",
+    "price": 169,
+    "category": "ladis purse",
+    "inStock": true,
+    "stock": 15,
+    "images": [
+      "assets/products/ladise_purse/purse_a1.webp",
+      "assets/products/ladise_purse/purse_a2.webp",
+      "assets/products/ladise_purse/purse_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-026",
+    "name": "printed purse",
+    "price": 119,
+    "category": "ladis purse",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/ladise_purse/purse_b1.webp",
+      "assets/products/ladise_purse/purse_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-027",
+    "name": "feti purse",
+    "price": 119,
+    "category": "ladis purse",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/ladise_purse/purse_c1.webp",
+      "assets/products/ladise_purse/purse_c2.webp",
+      "assets/products/ladise_purse/purse_c3.webp",
+      "assets/products/ladise_purse/purse_c4.webp"
+    ]
+  },
+  {
+    "id": "prod-028",
+    "name": "Glamora purse",
+    "price": 149,
+    "category": "ladis purse",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/ladise_purse/purse_d1.webp",
+      "assets/products/ladise_purse/purse_d2.webp",
+      "assets/products/ladise_purse/purse_d3.webp"
+    ]
+  },
+  {
+    "id": "prod-029",
+    "name": "Cute Table Lamp",
+    "price": 299,
+    "category": "Table lamp",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/table_lamp/tablelamp_a1.webp",
+      "assets/products/table_lamp/tablelamp_a2.webp",
+      "assets/products/table_lamp/tablelamp_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-030",
+    "name": "aesthetic baby's dinner set",
+    "price": 249,
+    "category": "dinner set",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/baby_plate-set/plate_a1.webp",
+      "assets/products/baby_plate-set/plate_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-031",
+    "name": "Beautiful Tiffin box",
+    "price": 169,
+    "category": "Tiffin box",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/tiffin_box/tiffin_a1.webp",
+      "assets/products/tiffin_box/tiffin_a2.webp"
+    ]
+  },
+  {
+    "id": "prod-032",
+    "name": "wonderful Tiffin box",
+    "price": 169,
+    "category": "Tiffin box",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/tiffin_box/tiffin_b1.webp",
+      "assets/products/tiffin_box/tiffin_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-033",
+    "name": "Cute Tiffin box",
+    "price": 149,
+    "category": "Tiffin box",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/tiffin_box/tiffin_c1.webp",
+      "assets/products/tiffin_box/tiffin_c2.webp",
+      "assets/products/tiffin_box/tiffin_c3.webp"
+    ]
+  },
+  {
+    "id": "prod-034",
+    "name": "Cute Tiffin box",
+    "price": 149,
+    "category": "Tiffin box",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/tiffin_box/tiffin_d1.webp",
+      "assets/products/tiffin_box/tiffin_d2.webp"
+    ]
+  },
+  {
+    "id": "prod-035",
+    "name": "DailyDew cup & plate combo",
+    "price": 159,
+    "category": "cup & plate",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/cup_plate_set/set_a1.webp",
+      "assets/products/cup_plate_set/set_a2.webp",
+      "assets/products/cup_plate_set/set_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-036",
+    "name": "Eleganza tea cup & plate set",
+    "price": 159,
+    "category": "cup & plate",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/cup_plate_set/set_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-037",
+    "name": "royal cup & bottle combo",
+    "price": 179,
+    "category": "cup & plate",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/cup_plate_set/set_c1.webp",
+      "assets/products/cup_plate_set/set_c2.webp"
+    ]
+  },
+  {
+    "id": "prod-038",
+    "name": "HydroMate Daily Use Bottle",
+    "price": 139,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/water_bottle/bottle_a1.webp",
+      "assets/products/water_bottle/bottle_a2.webp",
+      "assets/products/water_bottle/bottle_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-039",
+    "name": "Classic Water bottle Bottle",
+    "price": 139,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/water_bottle/bottle_b1.webp",
+      "assets/products/water_bottle/bottle_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-040",
+    "name": "Unic & cute water Bottle",
+    "price": 149,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 12,
+    "images": [
+      "assets/products/water_bottle/bottle_c1.webp",
+      "assets/products/water_bottle/bottle_c2.webp",
+      "assets/products/water_bottle/bottle_c3.webp",
+      "assets/products/water_bottle/bottle_c4.webp"
+    ]
+  },
+  {
+    "id": "prod-041",
+    "name": "Toy & Joy water Bottle",
+    "price": 149,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/water_bottle/bottle_d1.webp",
+      "assets/products/water_bottle/bottle_d2.webp",
+      "assets/products/water_bottle/bottle_d3.webp"
+    ]
+  },
+  {
+    "id": "prod-042",
+    "name": "AquaNova classic Bottle",
+    "price": 139,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/water_bottle/bottle_e1.webp",
+      "assets/products/water_bottle/bottle_e2.webp",
+      "assets/products/water_bottle/bottle_e3.webp",
+      "assets/products/water_bottle/bottle_e4.webp"
+    ]
+  },
+  {
+    "id": "prod-043",
+    "name": "Glass & Lovely Bottle",
+    "price": 99,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/water_bottle/bottle_f1.webp",
+      "assets/products/water_bottle/bottle_f2.webp"
+    ]
+  },
+  {
+    "id": "prod-044",
+    "name": "GlacierSip Cooling Bottle",
+    "price": 199,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/water_bottle/bottle_g1.webp",
+      "assets/products/water_bottle/bottle_g2.webp",
+      "assets/products/water_bottle/bottle_g3.webp"
+    ]
+  },
+  {
+    "id": "prod-045",
+    "name": "GlacierSip Cooling Bottle",
+    "price": 199,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/water_bottle/bottle_h1.webp",
+      "assets/products/water_bottle/bottle_h2.webp",
+      "assets/products/water_bottle/bottle_h3.webp"
+    ]
+  },
+  {
+    "id": "prod-046",
+    "name": "MySip Signature Bottle",
+    "price": 129,
+    "category": "Water Bottle",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/water_bottle/bottle_i1.webp",
+      "assets/products/water_bottle/bottle_i2.webp",
+      "assets/products/water_bottle/bottle_i3.webp",
+      "assets/products/water_bottle/bottle_i4.webp"
+    ]
+  },
+  {
+    "id": "prod-047",
+    "name": "Cute Teddy Bag",
+    "price": 149,
+    "category": "Ladise Bag",
+    "inStock": true,
+    "stock": 12,
+    "images": [
+      "assets/products/ladise_bag/bag_a1.webp",
+      "assets/products/ladise_bag/bag_a2.webp",
+      "assets/products/ladise_bag/bag_a3.webp",
+      "assets/products/ladise_bag/bag_a4.webp"
+    ]
+  },
+  {
+    "id": "prod-048",
+    "name": "Cute & small Bag",
+    "price": 69,
+    "category": "Ladise Bag",
+    "inStock": true,
+    "stock": 18,
+    "images": [
+      "assets/products/ladise_bag/bag_b1.webp",
+      "assets/products/ladise_bag/bag_b2.webp",
+      "assets/products/ladise_bag/bag_b3.webp",
+      "assets/products/ladise_bag/bag_b4.webp",
+      "assets/products/ladise_bag/bag_b5.webp",
+      "assets/products/ladise_bag/bag_b6.webp"
+    ]
+  },
+  {
+    "id": "prod-049",
+    "name": "Santipur Stylish Bag",
+    "price": 149,
+    "category": "Ladise Bag",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/ladise_bag/bag_c1.webp",
+      "assets/products/ladise_bag/bag_c2.webp"
+    ]
+  },
+  {
+    "id": "prod-050",
+    "name": "BloomAura",
+    "price": 149,
+    "category": "Flower vase",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/flower_vase/vase_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-051",
+    "name": "FloraGlow",
+    "price": 119,
+    "category": "Flower vase",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/flower_vase/vase_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-052",
+    "name": "Petalique",
+    "price": 69,
+    "category": "Flower vase",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/flower_vase/vase_c1.webp",
+      "assets/products/flower_vase/vase_c2.webp",
+      "assets/products/flower_vase/vase_c3.webp"
+    ]
+  },
+  {
+    "id": "prod-053",
+    "name": "JhauGlow mini tree",
+    "price": 119,
+    "category": "Flower vase",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/flower_vase/vase_d1.webp"
+    ]
+  },
+  {
+    "id": "prod-054",
+    "name": "Royal Sip Coffee Mug",
+    "price": 139,
+    "category": "Coffe mug",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/coffee_mug/cup_a1.webp",
+      "assets/products/coffee_mug/cup_a2.webp",
+      "assets/products/coffee_mug/cup_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-055",
+    "name": "Golden Drip Mug",
+    "price": 109,
+    "category": "Coffe mug",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/coffee_mug/cup_c1.webp",
+      "assets/products/coffee_mug/cup_d1.webp"
+    ]
+  },
+  {
+    "id": "prod-056",
+    "name": "Sweetheart Duo Mug",
+    "price": 179,
+    "category": "Coffe mug",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/coffee_mug/cup_e1.webp"
+    ]
+  },
+  {
+    "id": "prod-057",
+    "name": "RoyalZip Pencil Bag",
+    "price": 169,
+    "category": "Pencil Bag",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/pencil_bag/pencil_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-058",
+    "name": "Zipora Premium Pencil Bag",
+    "price": 179,
+    "category": "Pencil Bag",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/pencil_bag/pencil_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-059",
+    "name": "Cuddle Charm Pencil Bag",
+    "price": 179,
+    "category": "Pencil Bag",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/pencil_bag/pencil_c1.webp"
+    ]
+  },
+  {
+    "id": "prod-060",
+    "name": "Princess Charm Pencil Bag",
+    "price": 179,
+    "category": "Pencil Bag",
+    "inStock": true,
+    "stock": 12,
+    "images": [
+      "assets/products/pencil_bag/pencil_d1.webp",
+      "assets/products/pencil_bag/pencil_d2.webp"
+    ]
+  },
+  {
+    "id": "prod-061",
+    "name": "Bike Ride Pencil Box ",
+    "price": 169,
+    "category": "Pencil Bag",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/pencil_bag/pencil_e1.webp",
+      "assets/products/pencil_bag/pencil_e2.webp",
+      "assets/products/pencil_bag/pencil_e3.webp"
+    ]
+  },
+  {
+    "id": "prod-062",
+    "name": "Premium Clock ",
+    "price": 249,
+    "category": "Table Clock",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/table_clock/clock_a1.webp",
+      "assets/products/table_clock/clock_a2.webp"
+    ]
+  },
+  {
+    "id": "prod-063",
+    "name": "Amazing Table Clock",
+    "price": 199,
+    "category": "Table Clock",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/table_clock/clock_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-064",
+    "name": "Thermonest Hotpot",
+    "price": 229,
+    "category": "Hotpot",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/hot_pot/hotpot_a1.webp",
+      "assets/products/hot_pot/hotpot_a2.webp",
+      "assets/products/hot_pot/hotpot_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-065",
+    "name": "Thermonest Hotpot",
+    "price": 229,
+    "category": "Hotpot",
+    "inStock": true,
+    "stock": 9,
+    "images": [
+      "assets/products/hot_pot/hotpot_b1.webp",
+      "assets/products/hot_pot/hotpot_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-066",
+    "name": "LuxChef Non-Stick Pan",
+    "price": 149,
+    "category": "Frying Pan",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/frying_pan/pan_a1.webp",
+      "assets/products/frying_pan/pan_a2.webp",
+      "assets/products/frying_pan/pan_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-067",
+    "name": "Diwali Glow Luxe Candle",
+    "price": 99,
+    "category": "Candle",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/candle/candle_a1.webp",
+      "assets/products/candle/candle_a2.webp",
+      "assets/products/candle/candle_a3.webp"
+    ]
+  },
+  {
+    "id": "prod-068",
+    "name": "Floral Bliss Diwali Candle",
+    "price": 135,
+    "category": "Candle",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/candle/candle_b1.webp",
+      "assets/products/candle/candle_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-069",
+    "name": "Lotus Blossom Wax Candles",
+    "price": 99,
+    "category": "Candle",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/candle/candle_c1.webp",
+      "assets/products/candle/candle_c2.webp"
+    ]
+  },
+  {
+    "id": "prod-070",
+    "name": "Mini Rose Flame Candles",
+    "price": 79,
+    "category": "Candle",
+    "inStock": true,
+    "stock": 8,
+    "images": [
+      "assets/products/candle/candle_d1.webp",
+      "assets/products/candle/candle_d2.webp"
+    ]
+  },
+  {
+    "id": "prod-071",
+    "name": "Diwali Special Handmade Candles",
+    "price": 119,
+    "category": "Candle",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/candle/candle_e1.webp",
+      "assets/products/candle/candle_e2.webp"
+    ]
+  },
+  {
+    "id": "prod-072",
+    "name": "Customize Love Chocolate",
+    "price": 55,
+    "category": "Chocolate",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/chocolate/choco_a1.webp",
+      "assets/products/chocolate/choco_a2.webp",
+      "assets/products/chocolate/choco_a3.webp",
+      "assets/products/chocolate/choco_a4.webp",
+      "assets/products/chocolate/choco_a5.webp"
+    ]
+  },
+  {
+    "id": "prod-073",
+    "name": "Handmade ladise bag",
+    "price": 399,
+    "category": "Bag",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/customize_handmade_item/cus_bag_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-074",
+    "name": "Handmade ladise bag",
+    "price": 399,
+    "category": "Bag",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/customize_handmade_item/cus_bag_b1.webp",
+      "assets/products/customize_handmade_item/cus_bag_b2.webp"
+    ]
+  },
+  {
+    "id": "prod-075",
+    "name": "Customize Kulo",
+    "price": 479,
+    "category": "Kulo",
+    "inStock": true,
+    "stock": 20,
+    "images": [
+      "assets/products/customize_handmade_item/kulo_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-076",
+    "name": "Customize Blouse",
+    "price": 119,
+    "category": "Blouse",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/customize_handmade_item/blouse_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-077",
+    "name": "Indian Elegance Choker",
+    "price": 299,
+    "category": "Choker",
+    "inStock": true,
+    "stock": 5,
+    "images": [
+      "assets/products/handmade_choker/choker_a1.webp"
+    ]
+  },
+  {
+    "id": "prod-078",
+    "name": "Meher Ethnic Choker",
+    "price": 169,
+    "category": "Choker",
+    "inStock": true,
+    "stock": 6,
+    "images": [
+      "assets/products/handmade_choker/choker_b1.webp"
+    ]
+  },
+  {
+    "id": "prod-079",
+    "name": "Dreamy Diva Choker",
+    "price": 79,
+    "category": "Choker",
+    "inStock": true,
+    "stock": 7,
+    "images": [
+      "assets/products/handmade_choker/choker_c1.webp"
+    ]
+  },
+  {
+    "id": "prod-080",
+    "name": "Fairy Dust Choker",
+    "price": 119,
+    "category": "Choker",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/handmade_choker/choker_d1.webp"
+    ]
+  },
+  {
+    "id": "prod-081",
+    "name": "Mystic Muse Choker",
+    "price": 99,
+    "category": "Choker",
+    "inStock": true,
+    "stock": 10,
+    "images": [
+      "assets/products/handmade_choker/choker_e1.webp"
+    ]
+  },
+  {
+    "id": "prod-082",
+    "name": "Sunflower Glow Choker",
+    "price": 109,
+    "category": "Choker",
+    "inStock": true,
+    "stock": 12,
+    "images": [
+      "assets/products/handmade_choker/choker_f1.webp"
+    ]
+  }
+]
