@@ -896,7 +896,7 @@
   {
     "id": "prod-072",
     "name": "Customize Love Chocolate",
-    "price": 60,
+    "price": 59,
     "category": "Chocolate",
     "inStock": true,
     "stock": 20,
