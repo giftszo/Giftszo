@@ -946,7 +946,7 @@ function productCard(product) {
                     data-product-image="${escapeHtml(normalized.id)}"
                     src="${firstImage}"
                     alt="${escapeHtml(normalized.name)}"
-                    loading="lazy"
+                    loading="eager"
                     decoding="async"
                 >
 
