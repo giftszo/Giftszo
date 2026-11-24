@@ -196,7 +196,7 @@
   {
     "id": "prod-016",
     "name": "customized photo frame",
-    "price": 199,
+    "price": 299,
     "category": "photo frame",
     "inStock": true,
     "stock": 11,
@@ -220,7 +220,7 @@
   {
     "id": "prod-018",
     "name": "costomized photo frame",
-    "price": 149,
+    "price": 199,
     "category": "photo frame",
     "inStock": true,
     "stock": 5,
